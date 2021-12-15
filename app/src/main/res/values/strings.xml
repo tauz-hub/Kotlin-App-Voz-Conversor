@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voz para Texto</string>
+    <string name="speech_err">Erro ao abrir a intent com Google Assistente</string>
+</resources>
